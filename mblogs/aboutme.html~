@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+  <meta charset="utf-8">
+        <title>About Me</title>
+     
+ 
+  <link href="styles.css"type="text/css"rel="stylesheet"> 
+  <link rel="stylesheet"type="text/css"href="http://fonts.googleapis.com/css?family=Open+Sans">
+ </head>
+ 
+ <body>
+  <div class="container">
+  <div class="header">
+    <h1>ABOUT ME</h1> 
+  </div>
+ 
+  <div class="image">
+    <img src="img/Topcat002.jpg">
+  </div>
+  
+  <div class="Intro">
+  <div class="intro column"></div>
+    <h2>Introduction</h2>
+    <p>Life in a New York alley was never as much fun as in this 1961 animated series that follows the many get-               rich-quick schemes of a band of streetwise felines.</p>
+    <p>Top Cat! 
+       The most effectual Top Cat! 
+    </p>
+         
+   <div class="Skills"> 
+   <div class="Skills column"></div>
+        <h3> My skills</h3>
+            <ul> 
+            <ul id="skill_list"></ul>
+              <li> An item in a list</li>
+              <li> Another item </li>
+              <li> Item Three</li>
+            </ul>
+       
+    <div class="main_text">
+         <h3> My Story</h3>
+      <p> Top Cat, a clever hustler whose close friends get to call him TC, leads his faithful followers Benny the               Ball, Choo Choo, Brain, Fancy-Fancy and Spook in assorted scams, gambling activities and harebrained stunts,           all in the pursuit of a fast dollar. Keeping an eye on things is Officer Dibble, a beat cop who has his hands           full trying to break up TC's shenanigans.</p>
+ 
+    </div>
+    </div>
+    </div>
+  
+ </div>
+ </body>
+</html>
